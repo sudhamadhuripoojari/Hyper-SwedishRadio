@@ -1,2 +1,2 @@
 # Hyper-SwedishRadio
-# Used Swedish API 
+# Used Swedish Radio API 
